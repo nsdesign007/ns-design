@@ -1,0 +1,24 @@
+button{
+    background: greenyellow;
+    color: #fff;
+}
+#para1{
+    color: hotpink;
+}
+#para2{
+    color: indigo;
+}
+.content{
+    color: lightblue;
+    background: lightcoral;
+}
+
+
+
+
+
+div{
+    width: 300px;
+    height: 200 px;
+    background: red;
+}
